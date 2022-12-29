@@ -6,11 +6,12 @@ export const App = () => {
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
+        fontSize: 60,
+        // fontWe: 60,
+        color: '#010101',
       }}
     >
-      React homework template
+      React COUNTER
     </div>
   );
 };
